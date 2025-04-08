@@ -13,7 +13,7 @@
 #import <GCDWebServer/GCDWebServerFileResponse.h>
 #import <FMDB/FMDB.h>
 #import "DoraemonAppInfoUtil.h"
-
+#import <fmdb/FMDatabase.h>
 
 #define DK_SERVER_PORT 9002
 
